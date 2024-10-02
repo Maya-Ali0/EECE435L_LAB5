@@ -1,5 +1,5 @@
 # Ignore the virtual environment folder
-myvenv/
+myenv/
 
 # Python cache files
 *.pyc
